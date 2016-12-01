@@ -94,6 +94,9 @@
       },
 	  {
 		"name": "StartPage"
+	  },
+	  {
+		"name": "Yandex"
 	  }
     ]
   },

@@ -11,19 +11,10 @@
       "src": "icon.png"
     }
   ],
-  "hermit_settings": {
-    "open_links": "browser"
-  },
   "hermit_search": [
     {
       "url": "https://yandex.ru/search/smart/?text=%s",
       "name": "__MSG_search__"
-    }
-  ],
-  "hermit_share": [
-    {
-      "url": "https://yandex.ru/search/smart/?text=%t",
-      "name": "__MSG_share__"
     }
   ],
   "related_applications": [
